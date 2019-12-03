@@ -1,0 +1,11 @@
+/home/veruslumen/Etapa1/bin/Debug/netcoreapp3.0/Etapa1
+/home/veruslumen/Etapa1/bin/Debug/netcoreapp3.0/Etapa1.deps.json
+/home/veruslumen/Etapa1/bin/Debug/netcoreapp3.0/Etapa1.runtimeconfig.json
+/home/veruslumen/Etapa1/bin/Debug/netcoreapp3.0/Etapa1.runtimeconfig.dev.json
+/home/veruslumen/Etapa1/bin/Debug/netcoreapp3.0/Etapa1.dll
+/home/veruslumen/Etapa1/bin/Debug/netcoreapp3.0/Etapa1.pdb
+/home/veruslumen/Etapa1/obj/Debug/netcoreapp3.0/Etapa1.csprojAssemblyReference.cache
+/home/veruslumen/Etapa1/obj/Debug/netcoreapp3.0/Etapa1.AssemblyInfoInputs.cache
+/home/veruslumen/Etapa1/obj/Debug/netcoreapp3.0/Etapa1.AssemblyInfo.cs
+/home/veruslumen/Etapa1/obj/Debug/netcoreapp3.0/Etapa1.dll
+/home/veruslumen/Etapa1/obj/Debug/netcoreapp3.0/Etapa1.pdb

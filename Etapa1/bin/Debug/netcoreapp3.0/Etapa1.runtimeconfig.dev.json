@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/veruslumen/.dotnet/store/|arch|/|tfm|",
+      "/home/veruslumen/.nuget/packages"
+    ]
+  }
+}
